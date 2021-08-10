@@ -1,2 +1,1 @@
-# bin2txt-go
-Binary-to-text encoding
+# Binary-to-text Encoding for Go
